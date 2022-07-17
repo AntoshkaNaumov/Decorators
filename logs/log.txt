@@ -1,0 +1,16 @@
+
+вызвана функция recursive_flatten 
+дата и время вызова: 2022-07-17-14.42.20 
+входные аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) 
+возвращаемое значение функции recursive_flatten: <generator object recursive_flatten at 0x00000223D88C9C10>
+-------------------------------
+вызвана функция recursive_flatten 
+дата и время вызова: 2022-07-17-14.43.50 
+входные аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) 
+возвращаемое значение функции recursive_flatten: <generator object recursive_flatten at 0x000002E4E93D9C10>
+-------------------------------
+вызвана функция recursive_flatten 
+дата и время вызова: 2022-07-17-14.49.36 
+входные аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) 
+возвращаемое значение функции recursive_flatten: <generator object recursive_flatten at 0x00000181EFEF9C10>
+-------------------------------
